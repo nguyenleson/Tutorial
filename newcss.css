@@ -1,0 +1,29 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 19, 2015, 4:35:52 PM
+    Author     : Le Son
+*/
+header{ font-size: xx-large;
+color: pink;}
+title{ color: pink}
+body{ background-color: grey;
+
+}
+
+
+.para1{ color: pink;
+        text-decoration: underline;
+        border: blanchedalmond;
+  }
+
+  .para2{ color: white;
+  text-decoration: underline;}
+  .para3{ color: pink;
+        text-decoration: underline;
+  }
+  
+  p.no{ }
